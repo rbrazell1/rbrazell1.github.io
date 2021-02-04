@@ -19,3 +19,9 @@ I am eagerly looking to find a new career in programming and web development! I 
 * [Hello World: Java Console application](https://github.com/rbrazell1/hello-world-java.git)
 
 * [Hello World: Android app](https://github.com/rbrazell1/hello-world.git)
+
+>well
+>well
+>well
+>...
+>That's a very deep subject, for a shallow mind
