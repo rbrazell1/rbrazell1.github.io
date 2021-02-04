@@ -6,6 +6,10 @@
 
 I am eagerly looking to find a new career in programming and web development! I am looking for a Junior developer position or an internship that can promise to teach me and offer room for growth. 
 
-## The current project is : hello-world-java
+## My current projects are : 
+
+* Hello World: Java console application
+
+* Hello World: Android app
 
 ## /--add links as needed--/
