@@ -13,3 +13,6 @@ I am eagerly looking to find a new career in programming and web development! I 
 * Hello World: Android app
 
 ## /--add links as needed--/
+
+* [My LinkedIn](https://www.linkedin.com/in/russell-brazell-350186204/ "Russell Brazell")
+
