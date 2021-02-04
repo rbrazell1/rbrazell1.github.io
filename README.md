@@ -16,3 +16,6 @@ I am eagerly looking to find a new career in programming and web development! I 
 
 * [My LinkedIn](https://www.linkedin.com/in/russell-brazell-350186204/ "Russell Brazell")
 
+* [Hello World: Java Console application](https://github.com/rbrazell1/hello-world-java.git)
+
+* [Hello World: Android app](https://github.com/rbrazell1/hello-world.git)
