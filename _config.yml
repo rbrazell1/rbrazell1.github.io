@@ -1,1 +1,4 @@
 theme: jekyll-theme-architect
+
+titles_from_headings:
+  enabled: false
