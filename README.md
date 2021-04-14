@@ -14,7 +14,7 @@ As a Union Pipe Welder I learned the importance of paying attention to detail an
 of hard work. I'm no stranger to learning new skills very quickly, which lead me to the decision 
 to change industries by attending a Java Bootcamp at Central New Mexico Community College and
 becoming a software engineer. I'm certain I have the fundamental skills needed to add productive
-value _immediately_ and the drive to learn everything that's needed to rise to the next level time 
+value _immediately_, and the drive to learn everything that's needed to rise to the next level time 
 and time again.
 
 ### Skills
