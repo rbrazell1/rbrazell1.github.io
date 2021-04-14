@@ -4,7 +4,7 @@
 
 <br>
 
-#### brazellrussell@gmail.com
+#### [brazellrussell@gmail.com](mailto:brazellrussell@gmail.com)
 #### (505)264-4984  
 #### Linkedin: [russell-brazell-abq](https://www.linkedin.com/in/russell-brazell-abq) 
 #### Github Profile: [rbrazell1](https://github.com/rbrazell1)
@@ -40,8 +40,8 @@ and time again.
 •	Created several Android apps using Gradle supported by a full RDBMS including REST services. <br>
 •	Delivered milestones on time for code review and made corrections accordingly to meet design goals. <br>
 •	Implemented Unit tests and Parametrized tests with Junit to check functionality and debug code. <br>
-•	Established RDBMS design through the use of ERD’s utilizing primary and foreign keys and indexes. <br>
-•	Constructed RESTful Springboot API’s with the use of Java 11 and the GSON and JSON libraires. <br>
+•	Established RDBMS design through the use of ERDs utilizing primary and foreign keys and indexes. <br>
+•	Constructed RESTful Springboot APIs with the use of Java 11 and the GSON and JSON libraires. <br>
 ## Member 
 ### UA local 412 Pipefitter Union | Albuquerque, NM 	August 2014 - Current
 
