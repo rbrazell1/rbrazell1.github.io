@@ -5,5 +5,4 @@ title: "Russell E. Brazell"
 titles_from_headings:
   enabled: false
 
-download_links:
-    enabled: false
+show_downloads: false
