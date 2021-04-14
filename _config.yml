@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 
+title: "Russell E. Brazell"
+
 titles_from_headings:
   enabled: false
